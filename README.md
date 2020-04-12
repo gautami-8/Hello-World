@@ -1,3 +1,3 @@
 # Hello-World
-This is my first repository
-a new branch README-EDITS has been created
+This is my first repository.
+A new branch README-EDITS has been created
